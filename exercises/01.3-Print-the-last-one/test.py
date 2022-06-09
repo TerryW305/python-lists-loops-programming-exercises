@@ -1,4 +1,4 @@
-import io, sys, pytest, os, re
+import io, sys, pytest, os, re.
 path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
 
 @pytest.mark.it("Import the random package")
